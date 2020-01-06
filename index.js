@@ -1,0 +1,3 @@
+function showmenus() {
+$("#menus").show();
+}
